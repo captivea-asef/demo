@@ -69,7 +69,7 @@
         # 'mail_private',
         # 'mail_to',
         # 'mail_restrict_follower_selection',
-        'mail_schedule',
+        # 'mail_schedule',
         # 'mail_tracking',
         # 'mail_smtp_per_user',
         # 'mail_user_alias',
